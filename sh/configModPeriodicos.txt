@@ -1,0 +1,3 @@
+prueba/modulo_limitacion.sh:off
+prueba/controldecarga/modulo_controldecarga.sh:on
+prueba/traficodered/modulo_traficodered.sh:on
