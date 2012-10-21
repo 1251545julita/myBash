@@ -1,3 +1,0 @@
-tiempoCambioDeConfig=11
-tiempoPeriodico=10
-status=1
